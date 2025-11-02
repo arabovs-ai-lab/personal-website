@@ -7,7 +7,7 @@
 
 ## 👨‍🔬 Academic Profile
 
-**Mullosharaf K. Arabov, PhD**  
+**Mullosharaf Kurbonovich Arabov, PhD**  
 *Candidate of Physical and Mathematical Sciences, Associate Professor*  
 *Department of Data Analysis and Technical Programming*  
 *Kazan Federal University, Russia*
