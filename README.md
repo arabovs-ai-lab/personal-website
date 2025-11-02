@@ -3,112 +3,161 @@
 ![GitHub](https://img.shields.io/badge/Status-Active-brightgreen)
 ![GitHub](https://img.shields.io/badge/Field-Data_Science-blue)
 ![GitHub](https://img.shields.io/badge/Affiliation-Kazan_Federal_University-red)
+![GitHub](https://img.shields.io/badge/Position-Associate_Professor-purple)
 
-## 👨‍🔬 About
+## 👨‍🔬 Academic Profile
 
-**Dr. Mullosharaf Arabov**  
-*PhD, Associate Professor*  
+**Mullosharaf K. Arabov, PhD**  
+*Candidate of Physical and Mathematical Sciences, Associate Professor*  
 *Department of Data Analysis and Technical Programming*  
 *Kazan Federal University, Russia*
 
-This repository contains the academic portfolio and research materials of Dr. Mullosharaf Arabov - researcher and educator in data science, machine learning, and artificial intelligence.
+[🌐 Official KFU Profile](https://kpfu.ru/mullosharaf.arabov) | 
+[📧 Email](mailto:cool.araby@gmail.com) | 
+[🏫 University Portal](https://kpfu.ru)
 
 ## 🎯 Research Interests
 
-- **Machine Learning & Deep Learning**
-- **Data Analysis & Statistical Methods** 
-- **Quantum Computing & Quantum Machine Learning**
-- **Natural Language Processing**
-- **Scientific Computing & Numerical Methods**
+### 🔬 Core Research Areas
+
+#### **🔄 Natural Language Processing (NLP)**
+- Multilingual language models and cross-lingual transfer
+- Information extraction and knowledge graph construction
+- Semantic analysis and text understanding systems
+- Low-resource language processing
+
+#### **📈 Time Series Forecasting**
+- Deep learning architectures for temporal data (LSTM, Transformers)
+- Financial and economic forecasting models
+- Anomaly detection and regime change identification
+- Multivariate time series analysis
+
+#### **⚗️ Differential Equations & Dynamical Systems**
+- **Analysis of limit cycles and bifurcation scenarios** in nonlinear dynamical systems
+- Optimal control of dynamic processes
+- Numerical methods for solving differential equations
+- Applications in physics, engineering, and biological systems
+
+#### **🧠 Physics-Informed Neural Networks (PINN)**
+- Hybrid modeling combining physical laws with neural networks
+- Solving PDEs using deep learning approaches
+- PINN applications in engineering and scientific computing
+
+#### **🤖 Automated Machine Learning (AutoML)**
+- Neural architecture search and hyperparameter optimization
+- Automated feature engineering and model selection
+- Development of end-to-end AutoML pipelines
+
+### 💻 Software Engineering & Large-Scale Systems
+
+#### **🏥 Medical Informatics**
+- Large-scale medical diagnostic systems
+- Clinical decision support systems
+- Medical image and data processing pipelines
+- Healthcare data analytics platforms
+
+#### **💰 Financial Technology**
+- Algorithmic trading and market analysis systems
+- Risk management and fraud detection platforms
+- FinTech applications of machine learning
+- Regulatory technology (RegTech) solutions
+
+#### **📊 Benchmark Development**
+- Creation of standardized evaluation benchmarks
+- Comparative analysis of ML algorithms
+- Reproducible research environments and testbeds
+
+### 🎓 Pedagogy & Educational Technology
+- Innovative teaching methodologies for STEM education
+- Adaptive learning systems and personalized education
+- Digital transformation in higher education
+- Curriculum development for data science programs
 
 ## 📚 Educational Materials
 
-### 📖 Electronic Books
-- [Quantum Computing Fundamentals](books/quantum-computing) - *In development*
-- [Machine Learning for Data Science](books/ml-course) - *Planned*
-- [Statistical Data Analysis](books/statistics) - *Planned*
+### 📖 Electronic Textbooks
+- [Machine Learning Fundamentals](books/ml-fundamentals) - *In development*
+- [Time Series Analysis and Forecasting](books/time-series) - *Planned*
+- [Dynamical Systems and Bifurcation Theory](books/dynamical-systems) - *Planned*
+- [Physics-Informed Neural Networks](books/pinn) - *Planned*
 
 ### 🎓 Courses & Lectures
-- Data Structures and Algorithms
-- Machine Learning Fundamentals  
-- Statistical Analysis Methods
-- Programming for Data Science
+- **Advanced NLP and Language Models**
+- **Time Series Forecasting with Deep Learning**
+- **Nonlinear Dynamics and Bifurcation Analysis**
+- **AutoML and Automated AI Systems**
+- **Large-Scale Software Development for Science**
 
-### 📝 Methodological Guides
-- Research Methodology in Data Science
-- Scientific Writing and Publication
-- Experimental Design and Analysis
+### 🛠 Methodological Guides
+- Creating Effective ML Benchmarks
+- Backend Development for Research Applications
+- Teaching Methodologies for Technical Disciplines
 
 ## 🔬 Research Publications
 
-*Links to scientific papers, preprints, and conference proceedings will be updated here.*
+*Complete publication list available on [KFU Profile](https://kpfu.ru/mullosharaf.arabov)*
 
-### Recent Works:
-- *Paper titles and links to be added*
+### Key Research Themes:
+- **NLP and Linguistic Analysis**
+- **Forecasting Methods and Optimization**
+- **Dynamical Systems and Limit Cycle Analysis**
+- **PINN and Scientific Machine Learning**
+- **Educational Methodology in Technical Sciences**
 
-## 🛠 Technical Projects
+## 💻 Technical Projects
 
-### Interactive Demos
-- [Quantum Algorithms Visualization](demos/quantum) - *Coming soon*
-- [ML Model Explanations](demos/ml-explain) - *Planned*
+### 🔬 Research Demos
+- [NLP Benchmark Suite](demos/nlp-benchmark) - *In development*
+- [Dynamical Systems Analyzer](demos/dynamical-systems) - *Planned*
+- [PINN for PDE Solving](demos/pinn-pde) - *Planned*
+- [AutoML Framework](demos/automl-framework) - *Planned*
 
-### Code Repositories
-- [Research Code](https://github.com/arabovs-ai-lab/research-code)
-- [Course Materials](https://github.com/arabovs-ai-lab/course-materials)
+### 🏗 Software Frameworks
+- [Research Benchmark Framework](https://github.com/arabovs-ai-lab/benchmark-framework)
+- [Dynamical Systems Library](https://github.com/arabovs-ai-lab/dynamical-systems)
+- [Educational Platform Backend](https://github.com/arabovs-ai-lab/edu-backend)
 
 ## 🌐 Online Presence
 
-- **🌐 Website**: [https://arabovs-ai-lab.github.io/personal-website](https://arabovs-ai-lab.github.io/personal-website) 
+- **🌐 Website**: [https://arabovs-ai-lab.github.io/personal-website](https://arabovs-ai-lab.github.io/personal-website)
 - **🤗 Hugging Face**: [arabovs-ai-lab](https://huggingface.co/arabovs-ai-lab)
 - **📧 Email**: cool.araby@gmail.com
-- **🏫 University**: [KFU Data Science Department](https://kpfu.ru)
+- **🏫 KFU**: [Data Analysis Department](https://kpfu.ru)
 
-## 📊 Repository Structure
+## 🏢 Academic Activities
 
-```
-personal-website/
-├── content/           # Website content (Markdown, Jupyter notebooks)
-├── books/             # Electronic books and textbooks
-├── courses/           # Lecture materials and courses
-├── research/          # Research papers and code
-├── demos/             # Interactive demonstrations
-└── assets/            # Images, media files
-```
+### Teaching Responsibilities
+- Supervision of course projects and theses
+- Development of educational programs
+- Methodological work for teaching improvement
 
-## 🚀 Quick Start
-
-This site is built using **Quarto** and deployed via **GitHub Pages**.
-
-### Local Development
-```bash
-# Clone repository
-git clone https://github.com/arabovs-ai-lab/personal-website.git
-
-# Install Quarto
-# https://quarto.org/docs/get-started/
-
-# Render site locally
-quarto preview
-```
+### Research Supervision
+- Guidance for PhD students and young researchers
+- Supervision of student research projects
+- Organization of scientific seminars and workshops
 
 ## 🤝 Collaboration
 
-I welcome:
-- Research collaborations in data science and AI
-- Student supervision and mentoring
-- Academic partnerships and projects
-- Feedback on educational materials
+I welcome collaborations in:
+- **Joint research projects** in NLP, forecasting, and dynamical systems
+- **Educational technology development**
+- **Benchmark creation and open datasets**
+- **Applied projects in healthcare and finance**
+- **PINN and scientific machine learning applications**
 
-## 📄 License
+## 📄 Licenses
 
-Educational materials are typically shared under [Creative Commons Attribution 4.0](LICENSE) unless otherwise specified. Research code may have specific licenses per project.
+Educational materials are typically shared under [Creative Commons Attribution 4.0](LICENSE), while research code uses appropriate open-source licenses.
 
 ---
 
-*"Advancing knowledge through open science and education"*
+*"Bridging fundamental mathematics, cutting-edge AI, and innovative education"*
 
 <div align="center">
-  
+
 **Kazan Federal University** | **Data Analysis Department** | **© 2024 Arabovs AI Research Lab**
+
+[![KFU](https://img.shields.io/badge/Kazan_Federal_University-Official-blue)](https://kpfu.ru)
+[![Research](https://img.shields.io/badge/Research-Dynamical_Systems-green)](https://github.com/arabovs-ai-lab)
 
 </div>
