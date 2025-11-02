@@ -155,7 +155,7 @@ Educational materials are typically shared under [Creative Commons Attribution 4
 
 <div align="center">
 
-**Kazan Federal University** | **Data Analysis Department** | **© 2024 Arabovs AI Research Lab**
+**Kazan Federal University** | **Data Analysis Department** | **© 2025 Arabovs AI Research Lab**
 
 [![KFU](https://img.shields.io/badge/Kazan_Federal_University-Official-blue)](https://kpfu.ru)
 [![Research](https://img.shields.io/badge/Research-Dynamical_Systems-green)](https://github.com/arabovs-ai-lab)
